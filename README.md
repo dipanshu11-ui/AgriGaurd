@@ -7,7 +7,7 @@ Ye AI project hai jo patto ki photo se bimari pehchanta hai.
 - Dawai suggest karta hai (medicine.csv se)
 
 ## Kaise Chalaye
-1. Clone karo: git clone https://github.com/dipanshu11-ui/AgriGaurd.git
+1. Clone karo: git clone agrigaurd-s79q.onrender.com
 2. Install karo: pip install -r requirement.txt
 3. Chalao: streamlit run frontend/app.py
 
